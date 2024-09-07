@@ -8,6 +8,7 @@ export default function Home() {
 
   const handleDownload = () => {
     // Implement download logic
+    console.log("Downloading...");
   };
 
   return (
